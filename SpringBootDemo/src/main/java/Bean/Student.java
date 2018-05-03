@@ -15,5 +15,6 @@ public class Student {
     private Integer id;
     private String name;
     private String remark;
-
+    private String job;
+    private String like;
 }
